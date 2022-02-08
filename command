@@ -1,1 +1,1 @@
-netsh wlan show profile name=wifi name key=clear
+netsh wlan show profile name=yourwifiname key=clear
